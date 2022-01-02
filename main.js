@@ -23,7 +23,7 @@ const createTemplate = (task, index) => {
     </p>
     <div class="icons">
     <input onclick ='completeTask(${index})' type="checkbox" class="done" ${task.completed ? 'checked' : ''} />
-    <img onclick='deleteTask(${index})' class="bin" src="/images/bin.svg" alt="bin"/>  
+    <img onclick='deleteTask(${index})' class="bin" src="images/bin.svg" alt="bin"/>  
     </div>
     </div>  
   `
