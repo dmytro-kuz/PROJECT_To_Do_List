@@ -6,6 +6,5 @@
 
 
 <img src="/images/screenshots/1.png" width="600">
-<img src="/images/screenshots/2.png" width="600">
 <img src="/images/screenshots/3.png" width="600">
 
